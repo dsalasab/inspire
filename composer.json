@@ -1,0 +1,19 @@
+{
+    "name": "ghusr/inspire",
+    "description": "Un primer paquete de prueba",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ghusr\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "John Doe"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+      }
+}
